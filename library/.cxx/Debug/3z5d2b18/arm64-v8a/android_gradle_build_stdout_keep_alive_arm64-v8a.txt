@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/.cxx/Debug/3z5d2b18/arm64-v8a'
+ninja: no work to do.

@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/yingkunzhao/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/.cxx/Debug/3z5d2b18/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/yingkunzhao/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/.cxx/Debug/3z5d2b18/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "keep_alive::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "keep_alive",
+      "output": "/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/3z5d2b18/obj/arm64-v8a/libkeep_alive.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/yingkunzhao/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/yingkunzhao/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

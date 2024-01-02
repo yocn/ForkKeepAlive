@@ -1,0 +1,18 @@
+# ninja log v5
+0	221	1703747443	CMakeFiles/keep_alive.dir/keep_alive.cpp.o	ca5fa4c91cc25d38
+222	317	1703747443	/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/3z5d2b18/obj/arm64-v8a/libkeep_alive.so	188990c534203c61
+1	210	1703750081	/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/3z5d2b18/obj/arm64-v8a/libkeep_alive.so	188990c534203c61
+2	832	1703839054	CMakeFiles/keep_alive.dir/keep_alive.cpp.o	ca5fa4c91cc25d38
+832	950	1703839055	/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/3z5d2b18/obj/arm64-v8a/libkeep_alive.so	188990c534203c61
+1	324	1703839641	CMakeFiles/keep_alive.dir/keep_alive.cpp.o	ca5fa4c91cc25d38
+324	444	1703839641	/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/3z5d2b18/obj/arm64-v8a/libkeep_alive.so	188990c534203c61
+1	342	1703839935	CMakeFiles/keep_alive.dir/keep_alive.cpp.o	ca5fa4c91cc25d38
+342	493	1703839935	/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/3z5d2b18/obj/arm64-v8a/libkeep_alive.so	188990c534203c61
+0	516	1703839966	CMakeFiles/keep_alive.dir/keep_alive.cpp.o	ca5fa4c91cc25d38
+517	643	1703839966	/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/3z5d2b18/obj/arm64-v8a/libkeep_alive.so	188990c534203c61
+1	453	1703840113	CMakeFiles/keep_alive.dir/keep_alive.cpp.o	ca5fa4c91cc25d38
+453	576	1703840113	/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/3z5d2b18/obj/arm64-v8a/libkeep_alive.so	188990c534203c61
+1	480	1703840343	CMakeFiles/keep_alive.dir/keep_alive.cpp.o	ca5fa4c91cc25d38
+480	593	1703840343	/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/3z5d2b18/obj/arm64-v8a/libkeep_alive.so	188990c534203c61
+1	516	1703841400	CMakeFiles/keep_alive.dir/keep_alive.cpp.o	ca5fa4c91cc25d38
+516	634	1703841400	/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/3z5d2b18/obj/arm64-v8a/libkeep_alive.so	188990c534203c61

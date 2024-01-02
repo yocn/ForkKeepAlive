@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/yingkunzhao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/yingkunzhao/github/KeepAlive/KeepAlive/library/.cxx/cmake/debug/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"keep_alive-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "keep_alive",
+			"buildCommand" : "/Users/yingkunzhao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/yingkunzhao/github/KeepAlive/KeepAlive/library/.cxx/cmake/debug/x86 --target keep_alive",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android19 --sysroot=/Users/yingkunzhao/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dkeep_alive_EXPORTS -I/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -fno-rtti -O3  -c ",
+					"src" : "/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/src/main/cpp/keep_alive.cpp",
+					"workingDirectory" : "/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/.cxx/cmake/debug/x86"
+				}
+			],
+			"output" : "/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cmake/debug/obj/x86/libkeep_alive.so",
+			"toolchain" : "6771791157887137715"
+		}
+	},
+	"toolchains" : 
+	{
+		"6771791157887137715" : 
+		{
+			"cCompilerExecutable" : "/Users/yingkunzhao/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/yingkunzhao/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

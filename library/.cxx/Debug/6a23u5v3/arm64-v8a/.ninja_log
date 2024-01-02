@@ -1,0 +1,6 @@
+# ninja log v5
+0	336	1703749750	CMakeFiles/keep_alive.dir/keep_alive.cpp.o	c918cb287b794740
+337	388	1703749750	/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/6a23u5v3/obj/arm64-v8a/libkeep_alive.so	2f490fe8c4239960
+0	8	0	clean	6a44959f2af3c5e5
+1	378	1703749764	CMakeFiles/keep_alive.dir/keep_alive.cpp.o	c918cb287b794740
+378	442	1703749764	/Users/yingkunzhao/github/KeepAlive/KeepAlive/library/build/intermediates/cxx/Debug/6a23u5v3/obj/arm64-v8a/libkeep_alive.so	2f490fe8c4239960
