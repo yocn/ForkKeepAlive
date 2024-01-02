@@ -8,12 +8,10 @@
     <application>
         <service
             android:name="com.boolbird.keepalive.KeepAliveService"
-            android:exported="true"
             android:process="android.process.daemon" />
 
         <receiver
-            android:name="com.boolbird.keepalive.AutoBootReceiver"
-            android:exported="true">
+            android:name="com.boolbird.keepalive.AutoBootReceiver">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
                 <action android:name="android.intent.action.TIME_TICK" />

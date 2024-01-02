@@ -7,10 +7,8 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include/)
 add_compile_options(-fno-rtti -O3)
 
 message(@@@${CMAKE_CURRENT_SOURCE_DIR})
-message("yocnyocnA")
-message(${CMAKE_ANDROID_ARCH_ABI})
 
-link_directories(${CMAKE_CURRENT_SOURCE_DIR}/binder_libs/${CMAKE_ANDROID_ARCH_ABI})
+link_directories(binder_libs/${CMAKE_ANDROID_ARCH_ABI})
 
 aux_source_directory(. SRC_LIST) # 搜索当前目录下的所有.cpp文件
 
